@@ -1,0 +1,64 @@
+[
+    {
+        "name"  : "Yahoo Baba",
+        "email" : "yahoobaba@gamil.com",
+        "age" : 20,
+        "city" : 1
+    },
+    {
+        "name"  : "Salman Khan",
+        "email" : "salman@gamil.com",
+        "age" : 21,
+        "city" : 2
+    },
+    {
+        "name"  : "Abhishek Bachan",
+        "email" : "abhishek@gamil.com",
+        "age" : 18,
+        "city" : 3
+    },
+    {
+        "name"  : "Shahid Kapoor",
+        "email" : "shahid@gamil.com",
+        "age" : 17,
+        "city" : 21
+    },
+    {
+        "name"  : "John Abraham",
+        "email" : "john@gamil.com",
+        "age" : 17,
+        "city" : 2
+    },
+    {
+        "name"  : "Amir Khan",
+        "email" : "amir@gamil.com",
+        "age" : 19,
+        "city" : 2
+    },
+    {
+        "name"  : "Hrithik Roshan",
+        "email" : "hrithik@gamil.com",
+        "age" : 20,
+        "city" : 4
+    },
+    
+    {
+        "name"  : "Akshay Kumar",
+        "email" : "akshay@gamil.com",
+        "age" : 21,
+        "city" : 3
+    },
+    {
+        "name"  : "Suniel Shetty",
+        "email" : "suniel@gamil.com",
+        "age" : 21,
+        "city" : 5
+    },
+    {
+        "name"  : "Shah Rukh Khan",
+        "email" : "shahrukh@gamil.com",
+        "age" : 19,
+        "city" : 5
+    }
+    
+]
