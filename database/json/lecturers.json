@@ -1,0 +1,21 @@
+[
+    {
+        "name"  : "Prem Chopra",
+        "email" : "prem@gamil.com",
+        "age" : 45,
+        "city" : 1
+    },
+    {
+        "name"  : "Amrish Puri",
+        "email" : "amrish@gamil.com",
+        "age" : 46,
+        "city" : 2
+    },
+    {
+        "name"  : "Gulshan Grover",
+        "email" : "gulshan@gamil.com",
+        "age" : 44,
+        "city" : 3
+    }
+    
+]

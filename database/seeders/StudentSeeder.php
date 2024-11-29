@@ -25,6 +25,5 @@ class StudentSeeder extends Seeder
                 'city' => $student->city
             ]);
         });
-
     }
 }
